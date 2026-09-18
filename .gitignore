@@ -3,3 +3,8 @@
 **/.history/
 **/_restore_backup_*/
 *.kicad_prl
+
+# Editor/KiCad history and backups
+**/.history/
+**/_restore_backup_*/
+*.kicad_prl
