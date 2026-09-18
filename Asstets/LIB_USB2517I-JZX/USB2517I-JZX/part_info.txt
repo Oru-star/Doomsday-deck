@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=USB2517I-JZX
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=65
+Version=1.1
+Released=2020-09-08 10:35:17
+Downloaded=2026-09-18 10:58:47
+3D=Y

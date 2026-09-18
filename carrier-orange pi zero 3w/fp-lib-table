@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OrangePi_Power_Compat") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/OrangePi_Power_Compat.pretty") (options "") (descr ""))
+)

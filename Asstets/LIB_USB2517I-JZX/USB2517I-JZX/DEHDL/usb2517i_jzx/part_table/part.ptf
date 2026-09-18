@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB2517I_JZX'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "USB2517I-JZX" (!) = "", "QFN50P900X900X100-65N-D", "Quad Flat No-Lead", "886-USB2517I-JZX", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/USB2517I-JZX?qs=pA5MXup5wxGVk3PXuCIZ0A%3D%3D", "USB2517I-JZX", "https://www.arrow.com/en/products/usb2517i-jzx/microchip-technology?utm_currency=USD&region=nac", "USB Interface IC Ultra Fast USB 2.19", "https://componentsearchengine.com/Datasheets/2/USB2517I-JZX.pdf", "1 mm"
+END_PART
+
+END.

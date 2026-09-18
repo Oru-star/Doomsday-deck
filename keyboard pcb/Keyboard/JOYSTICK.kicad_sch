@@ -582,7 +582,7 @@
 			(uuid "9b67e61a-3946-4f38-90b1-ec3796cd60d7")
 		)
 		(instances
-			(project "Keyboard-Zerodeck"
+			(project "Keyboard-Doomsday-Deck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1/88f4f343-040b-4199-a31c-3ea006aede72"
 					(reference "J2")
 					(unit 1)
@@ -664,7 +664,7 @@
 			(uuid "9121c246-723b-4b8d-873c-6e9d0416a0c2")
 		)
 		(instances
-			(project "Keyboard-Zerodeck"
+			(project "Keyboard-Doomsday-Deck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1/88f4f343-040b-4199-a31c-3ea006aede72"
 					(reference "J3")
 					(unit 1)
@@ -755,7 +755,7 @@
 			(uuid "a2380760-0af8-4098-94ea-b42d8f8c5561")
 		)
 		(instances
-			(project "Keyboard-Zerodeck"
+			(project "Keyboard-Doomsday-Deck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1/88f4f343-040b-4199-a31c-3ea006aede72"
 					(reference "J1")
 					(unit 1)

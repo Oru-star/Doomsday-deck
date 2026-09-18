@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB2517I-JZX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-08-10:35:17)
+    (mountForm default
+        (footprintRef "QFN50P900X900X100-65N-D")
+        (spec "System")
+    )
+)

@@ -493,7 +493,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Keyboard-Zerodeck.kicad_pro",
+    "filename": "Keyboard-Doomsday-Deck.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -648,18 +648,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Keyboard-Zerodeck.kicad_sch",
-        "name": "Keyboard-Zerodeck",
+        "filename": "Keyboard-Doomsday-Deck.kicad_sch",
+        "name": "Keyboard-Doomsday-Deck",
         "uuid": "83b0bf1e-f042-47d2-8247-013ebbe736a1"
       }
     ],
-    "used_designators": "R1-4,J5,F1,C1-3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "83b0bf1e-f042-47d2-8247-013ebbe736a1",
-      "Keyboard-Zerodeck"
+      "Keyboard-Doomsday-Deck"
     ],
     [
       "4c7a8b52-c7c8-4b16-822b-590c8de5372e",

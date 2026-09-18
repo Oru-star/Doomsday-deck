@@ -345,7 +345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
 			(at 91.44 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -391,7 +391,7 @@
 			(uuid "0d30ee50-ab48-4d76-b099-f4e45f898cf3")
 		)
 		(instances
-			(project "Keyboard-Zerodeck"
+			(project "Keyboard-Doomsday-Deck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1/a7003389-5ce7-40cf-8381-041682537b6d"
 					(reference "J4")
 					(unit 1)
