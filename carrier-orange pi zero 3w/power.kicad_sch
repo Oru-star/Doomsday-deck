@@ -4800,7 +4800,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bdea73df-9d0c-4d56-887c-4bca63e7e42e")
 		(property "Reference" "R3"
 			(at 215.9 120.6499 0)
@@ -4814,12 +4813,12 @@
 			)
 		)
 		(property "Value" "22.1k"
-			(at 215.9 123.1899 0)
+			(at 213.36 123.952 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
 				)
 				(justify left)
 			)
