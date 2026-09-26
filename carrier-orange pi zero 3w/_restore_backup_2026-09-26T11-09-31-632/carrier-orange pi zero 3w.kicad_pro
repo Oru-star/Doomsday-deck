@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.429,
-          "height": 3.429,
-          "width": 3.429
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -260,12 +260,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "pin_to_pin|2590800|381000|4879a9e9-78f3-4b20-97f8-9d553345e1b5|f4e36967-a4e2-479f-8b18-7f05c9b344f4|/83b0bf1e-f042-47d2-8247-013ebbe736a1|/83b0bf1e-f042-47d2-8247-013ebbe736a1|/83b0bf1e-f042-47d2-8247-013ebbe736a1",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -493,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Keyboard-Doomsdaydeck.kicad_pro",
+    "filename": "carrier-orange pi zero 3w.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -529,9 +524,8 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "",
       "specctra_dsn": "",
-      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -649,30 +643,38 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Keyboard-Doomsdaydeck.kicad_sch",
-        "name": "Keyboard-Doomsdaydeck",
-        "uuid": "83b0bf1e-f042-47d2-8247-013ebbe736a1"
+        "filename": "carrier-orange pi zero 3w.kicad_sch",
+        "name": "Root",
+        "uuid": "eed97ac6-b1d8-4052-bc40-1c993c6f2bcf"
       }
     ],
-    "used_designators": "R1-4,J5,F1,C1-3,#PWR1-11",
+    "used_designators": "R29,#PWR69",
     "variants": []
   },
   "sheets": [
     [
-      "83b0bf1e-f042-47d2-8247-013ebbe736a1",
-      "Keyboard-Doomsdaydeck"
+      "eed97ac6-b1d8-4052-bc40-1c993c6f2bcf",
+      "Root"
     ],
     [
-      "4c7a8b52-c7c8-4b16-822b-590c8de5372e",
-      "Key Matrix"
+      "ed4f3971-5b61-4199-9879-5572c72cc549",
+      "E-INK"
     ],
     [
-      "88f4f343-040b-4199-a31c-3ea006aede72",
-      "JOYSTICK"
+      "8a71e92a-c7a9-48a2-b776-d1fe91c6fc6f",
+      "power"
     ],
     [
-      "a7003389-5ce7-40cf-8381-041682537b6d",
-      "OLED_KEYBOARDD"
+      "2725cd89-28e1-47f8-884a-3cf84dd8f111",
+      "LORAMODULE"
+    ],
+    [
+      "dc032c8e-044c-497e-baa0-c9bab8568430",
+      "USB"
+    ],
+    [
+      "be3c0006-2c92-4f50-94ad-ec8e1904ad37",
+      "USB 1-7"
     ]
   ],
   "text_variables": {},

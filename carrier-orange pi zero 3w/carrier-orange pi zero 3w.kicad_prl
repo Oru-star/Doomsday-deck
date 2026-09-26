@@ -124,12 +124,12 @@
     "hierarchy_collapsed": [],
     "selection_filter": {
       "graphics": true,
-      "images": true,
-      "labels": true,
+      "images": false,
+      "labels": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pins": true,
-      "ruleAreas": true,
+      "otherItems": false,
+      "pins": false,
+      "ruleAreas": false,
       "symbols": true,
       "text": true,
       "wires": true

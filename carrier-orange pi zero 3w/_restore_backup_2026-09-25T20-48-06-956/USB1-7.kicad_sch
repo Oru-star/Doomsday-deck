@@ -625,7 +625,7 @@
 		(uuid "1c8e4883-25e6-48e6-8ab4-3b6c8eba8605")
 	)
 	(label "USB3DM"
-		(at 153.67 63.5 180)
+		(at 149.86 40.64 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -635,7 +635,7 @@
 		(uuid "1cb8e241-ddc6-4856-8a55-fceb62c6b2fd")
 	)
 	(label "USB6DP"
-		(at 129.54 71.12 180)
+		(at 125.73 48.26 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -645,7 +645,7 @@
 		(uuid "24c1c16c-eba6-4e47-b7d4-72f241b09e68")
 	)
 	(label "USB4DP"
-		(at 129.54 66.04 180)
+		(at 125.73 43.18 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -665,7 +665,7 @@
 		(uuid "416ab7df-9971-4536-a59c-1ace4b5d6300")
 	)
 	(label "USB7DM"
-		(at 153.67 73.66 180)
+		(at 149.86 50.8 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -675,7 +675,7 @@
 		(uuid "5acac0e1-9437-458c-be93-167485983ee1")
 	)
 	(label "USB5DM"
-		(at 153.67 68.58 180)
+		(at 149.86 45.72 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -715,7 +715,7 @@
 		(uuid "6e8336fe-0013-41a1-950f-b1a17871da27")
 	)
 	(label "USB7DP"
-		(at 129.54 73.66 180)
+		(at 125.73 50.8 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -725,7 +725,7 @@
 		(uuid "7a383e83-e3d9-4a92-bcbc-086163a9b492")
 	)
 	(label "USB2DM"
-		(at 153.67 60.96 180)
+		(at 149.86 38.1 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -735,7 +735,7 @@
 		(uuid "80712ee3-1cc1-4294-8391-88d52f380e49")
 	)
 	(label "USB4DM"
-		(at 153.67 66.04 180)
+		(at 149.86 43.18 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -775,7 +775,7 @@
 		(uuid "a2706d04-b96f-46b6-aff1-053eb18de4e2")
 	)
 	(label "USB6DM"
-		(at 153.67 71.12 180)
+		(at 149.86 48.26 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -785,7 +785,7 @@
 		(uuid "b550ff3c-b792-4d32-8d68-72876f2649b7")
 	)
 	(label "USB5DP"
-		(at 129.54 68.58 180)
+		(at 125.73 45.72 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -835,7 +835,7 @@
 		(uuid "d79835df-0157-44e5-bffa-c7c92e28ab87")
 	)
 	(label "USB3DP"
-		(at 129.54 63.5 180)
+		(at 125.73 40.64 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -855,7 +855,7 @@
 		(uuid "da1bc2c8-7369-4acd-b70e-0fe0e20af637")
 	)
 	(label "USB1DM"
-		(at 153.67 58.42 180)
+		(at 149.86 35.56 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -865,7 +865,7 @@
 		(uuid "e42eee2d-4b56-47ae-af10-9194246147c2")
 	)
 	(label "USB2DP"
-		(at 129.54 60.96 180)
+		(at 125.73 38.1 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -885,7 +885,7 @@
 		(uuid "ee652b52-c045-4a2b-aa3f-98e4e16414e4")
 	)
 	(label "USB1DP"
-		(at 129.54 58.42 180)
+		(at 125.73 35.56 180)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1064,7 +1064,7 @@
 	)
 	(hierarchical_label "USBDN4_DM"
 		(shape bidirectional)
-		(at 153.67 66.04 0)
+		(at 149.86 43.18 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1075,7 +1075,7 @@
 	)
 	(hierarchical_label "USBDN4_DP"
 		(shape bidirectional)
-		(at 129.54 66.04 0)
+		(at 125.73 43.18 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1086,7 +1086,7 @@
 	)
 	(hierarchical_label "USBDN6_DM"
 		(shape bidirectional)
-		(at 153.67 71.12 0)
+		(at 149.86 48.26 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1097,7 +1097,7 @@
 	)
 	(hierarchical_label "USBDN5_DP"
 		(shape bidirectional)
-		(at 129.54 68.58 0)
+		(at 125.73 45.72 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1108,7 +1108,7 @@
 	)
 	(hierarchical_label "USBDN3_DP"
 		(shape bidirectional)
-		(at 129.54 63.5 0)
+		(at 125.73 40.64 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1119,7 +1119,7 @@
 	)
 	(hierarchical_label "USBDN7_DM"
 		(shape bidirectional)
-		(at 153.67 73.66 0)
+		(at 149.86 50.8 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1130,7 +1130,7 @@
 	)
 	(hierarchical_label "USBDN7_DP"
 		(shape bidirectional)
-		(at 129.54 73.66 0)
+		(at 125.73 50.8 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1141,7 +1141,7 @@
 	)
 	(hierarchical_label "USBDN3_DM"
 		(shape bidirectional)
-		(at 153.67 63.5 0)
+		(at 149.86 40.64 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1152,7 +1152,7 @@
 	)
 	(hierarchical_label "USBDN1_DM"
 		(shape bidirectional)
-		(at 153.67 58.42 0)
+		(at 149.86 35.56 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1163,7 +1163,7 @@
 	)
 	(hierarchical_label "USBDN6_DP"
 		(shape bidirectional)
-		(at 129.54 71.12 0)
+		(at 125.73 48.26 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1174,7 +1174,7 @@
 	)
 	(hierarchical_label "USBDN1_DP"
 		(shape bidirectional)
-		(at 129.54 58.42 0)
+		(at 125.73 35.56 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1185,7 +1185,7 @@
 	)
 	(hierarchical_label "USBDN2_DP"
 		(shape bidirectional)
-		(at 129.54 60.96 0)
+		(at 125.73 38.1 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1196,7 +1196,7 @@
 	)
 	(hierarchical_label "USBDN5_DM"
 		(shape bidirectional)
-		(at 153.67 68.58 0)
+		(at 149.86 45.72 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1207,7 +1207,7 @@
 	)
 	(hierarchical_label "USBDN2_DM"
 		(shape bidirectional)
-		(at 153.67 60.96 0)
+		(at 149.86 38.1 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1326,7 +1326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB_A_4UCON_18666_KICAD10:USB_A_4UCON_18666"
+		(property "Footprint" ""
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -1649,7 +1649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB_A_4UCON_18666_KICAD10:USB_A_4UCON_18666"
+		(property "Footprint" ""
 			(at 43.18 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -1816,7 +1816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB_A_4UCON_18666_KICAD10:USB_A_4UCON_18666"
+		(property "Footprint" ""
 			(at 43.18 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2952,7 +2952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB_A_4UCON_18666_KICAD10:USB_A_4UCON_18666"
+		(property "Footprint" ""
 			(at 41.91 160.02 0)
 			(hide yes)
 			(show_name no)
