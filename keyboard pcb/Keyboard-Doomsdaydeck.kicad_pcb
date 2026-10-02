@@ -33385,7 +33385,7 @@
 		)
 	)
 	(gr_rect
-		(start 16 40.5)
+		(start 21 41)
 		(end 210.499999 171)
 		(stroke
 			(width 0.05)

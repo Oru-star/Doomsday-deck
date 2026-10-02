@@ -531,7 +531,7 @@
       "netlist": "",
       "plot": "Gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Keyboard-Doomsdaydeck.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

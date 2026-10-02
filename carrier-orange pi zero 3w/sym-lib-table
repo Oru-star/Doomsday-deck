@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "USB2517I-JZX") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/LIB_USB2517I-JZX/USB2517I-JZX/KiCad/USB2517I-JZX.kicad_sym") (options "") (descr ""))
 	(lib (name "TPD2EUSB30A") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/KiCADv6/2026-09-19_05-14-37.kicad_sym") (options "") (descr ""))
+	(lib (name "MAX98357AETE+T") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/LIB_MAX98357AETE+T/MAX98357AETE+T/KiCad/MAX98357AETE+T.kicad_sym") (options "") (descr ""))
 )

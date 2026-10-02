@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -648,7 +649,7 @@
         "uuid": "eed97ac6-b1d8-4052-bc40-1c993c6f2bcf"
       }
     ],
-    "used_designators": "R29,#PWR69",
+    "used_designators": "IC1-2,J15-18,R29-34,#PWR15,#PWR69-86,C29-36,F3-4,Q3-4,U4-5",
     "variants": []
   },
   "sheets": [
@@ -675,6 +676,14 @@
     [
       "be3c0006-2c92-4f50-94ad-ec8e1904ad37",
       "USB 1-7"
+    ],
+    [
+      "65d1f11f-76bd-4459-95a4-a6416d9050f8",
+      "FAN"
+    ],
+    [
+      "281a5cef-4ab4-46ac-afbd-93795f29aade",
+      "AUDIO"
     ]
   ],
   "text_variables": {},

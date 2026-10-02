@@ -1,0 +1,17 @@
+Pad,Signal,Physical position
+1,ANT,Top edge leftmost
+2,GND,Top edge
+3,CS,Top edge
+4,CLK,Top edge
+5,MOSI,Top edge
+6,MISO,Top edge
+7,RESET,Top edge
+8,BUSY,Top edge rightmost
+9,GND,Opposite edge topmost
+10,GND,Opposite edge
+11,RXEN,Opposite edge
+12,TXEN,Opposite edge
+13,DIO2,Opposite edge
+14,DIO1,Opposite edge
+15,GND,Opposite edge
+16,3V3,Opposite edge bottommost

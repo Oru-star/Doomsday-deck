@@ -7890,7 +7890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:DRT0003A"
 			(at 165.1 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -9072,7 +9072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 62.23 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9543,7 +9543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "USB2517I-JZX:QFN50P900X900X100-65N-D"
 			(at 204.14 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -11940,7 +11940,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
 			(at 91.44 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13093,7 +13093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 17.78 25.4 0)
 			(hide yes)
 			(show_name no)

@@ -915,10 +915,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "27671055-a733-4944-81a4-dba2c4da19fb")
+			(uuid "59eadc15-0f91-4f2e-a6f6-8623c3a9b328")
 		)
 		(pin "2"
-			(uuid "c94ac7bb-c980-4828-9b72-ede1e51edc41")
+			(uuid "606cb260-0edc-4a79-8876-550c03e3e752")
 		)
 		(instances
 			(project "carrier-orange pi zero 3w"
@@ -996,7 +996,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0476e3b5-1d60-4a21-804b-2f317fbcfc5c")
+			(uuid "d62c6148-0d04-4fec-a197-f9d693426d34")
 		)
 		(instances
 			(project "carrier-orange pi zero 3w"
@@ -1074,10 +1074,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "02524618-efb9-4167-8917-245a9e9716f9")
+			(uuid "8fca5ad2-7684-4712-97f7-2aad95f79fc3")
 		)
 		(pin "1"
-			(uuid "52dd14a7-fb90-4498-872b-93df198930dc")
+			(uuid "ee817d98-c13b-4677-b64f-ea06519921d1")
 		)
 		(instances
 			(project "carrier-orange pi zero 3w"
@@ -1122,7 +1122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 111.76 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -1156,28 +1156,28 @@
 			)
 		)
 		(pin "7"
-			(uuid "180c4f5f-d9bd-41f0-b926-a9308606a8ee")
+			(uuid "5de470bd-5a23-4b51-96a6-0f8ef8e8c6f4")
 		)
 		(pin "3"
-			(uuid "ee9bb21c-1e53-4d95-9f1f-a955fe33acba")
+			(uuid "4371b64a-2df1-4f36-84b9-0ce3faa7cb8c")
 		)
 		(pin "1"
-			(uuid "85f0d099-a8a6-4be2-95ba-0d343732762c")
+			(uuid "57c1d920-399f-44ee-99e4-2284ffc0de60")
 		)
 		(pin "2"
-			(uuid "bbd501cf-3c5d-4c33-b3cd-f4232cd971ec")
+			(uuid "56f74706-39e3-43f7-a698-e39c1023c38b")
 		)
 		(pin "6"
-			(uuid "c8034fee-1e25-4d31-825f-ac24db75ff14")
+			(uuid "47af92aa-79f8-4c29-a3e5-105d419d3f8a")
 		)
 		(pin "5"
-			(uuid "52263587-fb4c-442b-9f5a-8c84ede74260")
+			(uuid "8f477d5f-9bd4-44c8-a2d6-98dd4aac3bd9")
 		)
 		(pin "4"
-			(uuid "496232b9-15f2-4060-9234-412c05b821c0")
+			(uuid "58c7839e-1153-45db-8036-775098cb32cd")
 		)
 		(pin "8"
-			(uuid "66219bfd-9049-45f7-a383-f6dbec4d86f9")
+			(uuid "911a2858-3646-4e3f-872f-18eced07532b")
 		)
 		(instances
 			(project "carrier-orange pi zero 3w"
@@ -1255,7 +1255,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a59acfb-8de5-41dd-855e-d3b4df4b5e6f")
+			(uuid "f184ae54-4742-465e-b2c2-8a7dcfbaacb8")
 		)
 		(instances
 			(project "carrier-orange pi zero 3w"
