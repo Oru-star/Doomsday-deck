@@ -614,6 +614,16 @@
 		)
 		(uuid "2911887a-d7fc-4bff-a7ed-34196ec9f987")
 	)
+	(wire
+		(pts
+			(xy 78.74 92.71) (xy 80.01 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec048518-1232-47b2-822c-88faee41e243")
+	)
 	(label "USB3DM"
 		(at 46.99 130.81 0)
 		(effects
@@ -920,30 +930,6 @@
 	)
 	(global_label "+5V_USB"
 		(shape input)
-		(at 78.74 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "2c7a6bd0-e69b-4028-9965-bebbd81bb788")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.0464 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "+5V_USB"
-		(shape input)
 		(at 80.01 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1027,6 +1013,30 @@
 		(uuid "da11cf60-031d-4b9a-96c6-08aa862aaf42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 56.2964 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "+5V_PERIPH"
+		(shape input)
+		(at 80.01 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4664e8c-0c42-4ea1-a8d6-3c699249fc45")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.7276 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1973,7 +1983,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A - 6"
+		(property "Value" "USB_A - 6 (For Display)"
 			(at 71.12 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2062,7 +2072,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A - 7"
+		(property "Value" "USB_A - 7 (For RTL SDR)"
 			(at 69.85 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2307,7 +2317,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A - 2"
+		(property "Value" "USB_A - 2 (Extra/For phone )"
 			(at 39.37 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)

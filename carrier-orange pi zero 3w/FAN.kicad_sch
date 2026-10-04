@@ -2242,7 +2242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical"
 			(at 212.09 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -2480,7 +2480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical"
 			(at 214.63 68.58 0)
 			(hide yes)
 			(show_name no)

@@ -3034,7 +3034,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 123.4948 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3345,7 +3345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical"
 			(at 92.71 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4027,7 +4027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical"
 			(at 167.64 113.03 0)
 			(hide yes)
 			(show_name no)
