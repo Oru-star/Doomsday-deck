@@ -649,7 +649,7 @@
         "uuid": "eed97ac6-b1d8-4052-bc40-1c993c6f2bcf"
       }
     ],
-    "used_designators": "IC1-2,J15-18,R29-34,#PWR15,#PWR69-86,C29-36,F3-4,Q3-4,U4-5",
+    "used_designators": "IC1-2,J5,J8,J15-19,R1,R29-34,#PWR6,#PWR15,#PWR32,#PWR34-35,#PWR69-97,C29-36,F3-4,Q3-4,U4-8",
     "variants": []
   },
   "sheets": [
@@ -684,6 +684,10 @@
     [
       "281a5cef-4ab4-46ac-afbd-93795f29aade",
       "AUDIO"
+    ],
+    [
+      "a987d4c5-8c97-44d7-8286-7368f9e384c3",
+      "EXTERNAL-GPIO"
     ]
   ],
   "text_variables": {},

@@ -4,7 +4,7 @@
 	(lib (name "footprints") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "USB_A_4UCON_18666_KICAD10") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/USB_A_4UCON_18666_KICAD10.pretty/USB_A_4UCON_18666_KICAD10.pretty") (options "") (descr ""))
 	(lib (name "USB2517I-JZX") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/LIB_USB2517I-JZX/USB2517I-JZX/KiCad/USB2517I-JZX.pretty") (options "") (descr ""))
-	(lib (name "TPD2EUSB30DRTR") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/ul_TPD2EUSB30DRTR/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "Waveshare_Core1262") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/Core1262_HF_KiCad_Footprint(1)/Waveshare_Core1262.pretty") (options "") (descr ""))
 	(lib (name "MAX98357AETE+T") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/LIB_MAX98357AETE+T/MAX98357AETE+T/KiCad/MAX98357AETE+T.pretty") (options "") (descr ""))
+	(lib (name "SOT-723") (type "KiCad") (uri "C:/Users/tanma/Downloads/Doomsday-deck/Asstets/SOT-723.pretty") (options "") (descr ""))
 )

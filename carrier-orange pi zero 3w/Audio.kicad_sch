@@ -2332,10 +2332,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "046c4033-5c9b-432a-83d0-cd08e42accb0")
 		(property "Reference" "F4"
-			(at 116.84 34.29 90)
+			(at 117.094 36.068 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2344,8 +2343,8 @@
 				)
 			)
 		)
-		(property "Value" "1.5 A"
-			(at 116.84 36.83 90)
+		(property "Value" "1.5A"
+			(at 117.094 38.608 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2354,7 +2353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 116.84 42.418 90)
 			(hide yes)
 			(show_name no)
@@ -2433,7 +2432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 125.73 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -4086,7 +4085,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bb644204-e5b6-4bff-8ea0-ce7d2bdc6c43")
 		(property "Reference" "#PWR083"
 			(at 93.98 125.73 0)
@@ -4100,13 +4098,14 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 93.98 124.46 0)
+			(at 94.742 121.666 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm"
