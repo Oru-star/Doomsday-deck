@@ -1790,10 +1790,6 @@
 		(uuid "767d8c45-3233-428c-8ada-d21b53b2de7a")
 	)
 	(no_connect
-		(at 139.7 101.6)
-		(uuid "851ddcda-0573-4a51-9760-dc4731652ba1")
-	)
-	(no_connect
 		(at 152.4 78.74)
 		(uuid "8c40a394-aa81-4df6-9580-c4d8a015d880")
 	)
@@ -2922,6 +2918,85 @@
 			(project "carrier-orange pi zero 3w"
 				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 139.7 101.6 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7acec68a-a17b-4c70-a059-41b6b2cf6483")
+		(property "Reference" "#PWR056"
+			(at 133.35 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 135.89 101.5999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea95e642-6b63-4aa7-a0ef-57c15f822578")
+		)
+		(instances
+			(project "carrier-orange pi zero 3w"
+				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)

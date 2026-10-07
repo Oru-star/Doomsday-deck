@@ -1983,7 +1983,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 81.28) (xy 226.06 81.28)
+			(xy 207.01 81.28) (xy 212.09 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2160,6 +2160,16 @@
 			(type default)
 		)
 		(uuid "9fd4a997-04f3-4f03-bb28-f082e8a1e624")
+	)
+	(wire
+		(pts
+			(xy 219.71 81.28) (xy 226.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5216333-8e8b-4ad0-b18a-3b2b993fdb5b")
 	)
 	(wire
 		(pts
@@ -4324,6 +4334,86 @@
 			(project "carrier-orange pi zero 3w"
 				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf/8a71e92a-c7a9-48a2-b776-d1fe91c6fc6f"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 215.9 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b763beb1-d132-4348-9458-08f55ca60584")
+		(property "Reference" "F5"
+			(at 216.154 76.962 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3A"
+			(at 215.9 79.248 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 220.98 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 215.9 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d270995e-19e1-43cf-a0d0-4e90973c19e1")
+		)
+		(pin "1"
+			(uuid "00af418c-e7d4-45a4-b6ea-027ea238cec6")
+		)
+		(instances
+			(project "carrier-orange pi zero 3w"
+				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf/8a71e92a-c7a9-48a2-b776-d1fe91c6fc6f"
+					(reference "F5")
 					(unit 1)
 				)
 			)
