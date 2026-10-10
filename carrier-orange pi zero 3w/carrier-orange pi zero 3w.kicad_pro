@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "carrier-orange pi zero 3w.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
