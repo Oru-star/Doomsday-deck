@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerbers/")
+			(outputdirectory "C:/Users/tanma/Downloads/Doomsday-deck/PCB'S/GERBERS/")
 		)
 	)
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u"
