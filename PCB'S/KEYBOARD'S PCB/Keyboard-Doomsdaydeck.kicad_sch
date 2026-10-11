@@ -1362,6 +1362,18 @@
 		(uuid "53121e79-ff25-430e-ac83-8d84c1712669")
 	)
 	(rectangle
+		(start 223.52 99.06)
+		(end 263.525 126.365)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "571bc14a-a502-45d7-a99b-b89c51f3f55b")
+	)
+	(rectangle
 		(start 111.76 34.29)
 		(end 194.31 111.76)
 		(stroke
@@ -1408,6 +1420,16 @@
 			(type none)
 		)
 		(uuid "fe9d5b47-356c-484f-b45c-a679a4fe9991")
+	)
+	(text "M5Stack Scroll Unit"
+		(exclude_from_sim no)
+		(at 243.84 123.698 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0e65069e-a527-4b14-9339-4d98424e17e4")
 	)
 	(text "OLED OF KEYBOARD"
 		(exclude_from_sim no)
@@ -1486,10 +1508,6 @@
 	(no_connect
 		(at 167.64 58.42)
 		(uuid "64d2a6e1-dce2-480f-adfd-cec6c5cce974")
-	)
-	(no_connect
-		(at 242.57 64.77)
-		(uuid "7078e340-37df-452f-94c1-750d9689c951")
 	)
 	(no_connect
 		(at 167.64 86.36)
@@ -1631,6 +1649,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 109.22) (xy 250.19 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba36a71f-ef9a-47d1-8cc7-fc7cb33af2ba")
+	)
+	(wire
+		(pts
 			(xy 125.73 50.8) (xy 137.16 50.8)
 		)
 		(stroke
@@ -1734,30 +1762,6 @@
 		(uuid "18ad09d1-ca6f-44e8-b629-5a6e769f2939")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 183.4462 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape input)
-		(at 242.57 69.85 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1d646d46-b855-45c7-9cc1-177c8260e9cd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 249.0628 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2081,6 +2085,30 @@
 			)
 		)
 	)
+	(global_label "SCL"
+		(shape input)
+		(at 240.03 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63ab96bf-f66e-495c-9851-92a0792fbffa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.5228 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "COL10"
 		(shape input)
 		(at 137.16 91.44 180)
@@ -2214,6 +2242,30 @@
 		(uuid "7962ee86-094a-40aa-bf44-9c3e4cde9188")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 83.1766 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "5V"
+		(shape input)
+		(at 242.57 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7bdc5a23-606e-48b5-b9fe-2bb1722d861e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8533 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2537,30 +2589,6 @@
 			)
 		)
 	)
-	(global_label "SDA"
-		(shape input)
-		(at 242.57 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b6ec8f0f-8302-427a-a6aa-f2721bca9c63")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 249.1233 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "JOY_SW"
 		(shape input)
 		(at 68.58 148.59 0)
@@ -2670,6 +2698,54 @@
 		(uuid "c7dc1443-d719-472d-9bdc-f5cecec2a96b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 91.6433 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "5V"
+		(shape input)
+		(at 240.03 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cda52ca9-c2ea-48eb-8dc7-404ae40ebccc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 245.3133 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 240.03 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d11d535a-77f5-4c73-8999-a0038de5262e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.5833 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3075,6 +3151,92 @@
 			(project "Keyboard-Doomsdaydeck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 234.95 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d46047e-f105-4a7c-8f32-38f43072079b")
+		(property "Reference" "J6"
+			(at 235.585 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 235.585 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
+			(at 234.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 234.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9d57950b-e0f8-49bc-9a37-36357885ee34")
+		)
+		(pin "3"
+			(uuid "774e930f-10fb-4256-bcd4-a1b41b395400")
+		)
+		(pin "4"
+			(uuid "41f86676-2338-4707-86c9-2328ea4151b4")
+		)
+		(pin "2"
+			(uuid "db86e901-a563-40bf-8cf2-57192ddb9b36")
+		)
+		(instances
+			(project "Keyboard-Doomsdaydeck"
+				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4136,6 +4298,84 @@
 			(project "Keyboard-Doomsdaydeck"
 				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6dd5499-9c4c-4efb-b263-642e18ee0610")
+		(property "Reference" "#PWR012"
+			(at 250.19 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 250.19 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "934f84f8-3539-44fa-bdae-7929c56f9b78")
+		)
+		(instances
+			(project "Keyboard-Doomsdaydeck"
+				(path "/83b0bf1e-f042-47d2-8247-013ebbe736a1"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
