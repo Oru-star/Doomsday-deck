@@ -4,12 +4,19 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
 
 ## Enclosure Renders
 
+### Front View
+
 <p align="center">
   <a href="IMAGES/FRONT-RENDER.png">
-    <img src="IMAGES/FRONT-RENDER.png" alt="Doomsday Deck — front render" width="49%">
+    <img src="IMAGES/FRONT-RENDER.png" alt="Doomsday Deck — front render" width="1000">
   </a>
+</p>
+
+### Back View
+
+<p align="center">
   <a href="IMAGES/BACK-RENDER.png">
-    <img src="IMAGES/BACK-RENDER.png" alt="Doomsday Deck — back render" width="49%">
+    <img src="IMAGES/BACK-RENDER.png" alt="Doomsday Deck — back render" width="1000">
   </a>
 </p>
 
@@ -19,7 +26,7 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
 
 <p align="center">
   <a href="IMAGES/FRONT-CARRIER.png">
-    <img src="IMAGES/FRONT-CARRIER.png" alt="Doomsday Deck — carrier board front" width="100%">
+    <img src="IMAGES/FRONT-CARRIER.png" alt="Doomsday Deck — carrier board front" width="1000">
   </a>
 </p>
 
@@ -27,7 +34,7 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
 
 <p align="center">
   <a href="IMAGES/BACK-CARRIER.png">
-    <img src="IMAGES/BACK-CARRIER.png" alt="Doomsday Deck — carrier board back" width="100%">
+    <img src="IMAGES/BACK-CARRIER.png" alt="Doomsday Deck — carrier board back" width="1000">
   </a>
 </p>
 
@@ -47,8 +54,6 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
 | **Software-defined radio** | An RTL-SDR Blog V3 receiver is included as a self-sourced USB accessory for receive-only RF experimentation. |
 | **Active cooling** | Two 5 V 4010 fans are planned to move air through the enclosure. |
 | **Custom enclosure** | A modular 3D-printed enclosure houses the display, keyboard, compute board, battery system, and expansion hardware. The current plan is to use Printing Legion for free supplier printing. |
-
-> **Prototype status:** These are project design goals and planned integrations, not a claim that every feature has been fully assembled or validated. Final support depends on the completed schematics, correct SBC pin mapping, power-budget testing, RF configuration, and mechanical fit checks.
 
 ## Bill of Materials
 
