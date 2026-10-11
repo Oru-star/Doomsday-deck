@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../GERBERS/",
       "specctra_dsn": "",
       "step": "carrier-orange pi zero 3w.step",
       "vrml": ""
