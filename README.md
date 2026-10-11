@@ -13,14 +13,21 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
   </a>
 </p>
 
-## Carrier Board
+## Carrier Board Renders
+
+### Front View
 
 <p align="center">
   <a href="IMAGES/FRONT-CARRIER.png">
-    <img src="IMAGES/FRONT-CARRIER.png" alt="Doomsday Deck — carrier board front" width="49%">
+    <img src="IMAGES/FRONT-CARRIER.png" alt="Doomsday Deck — carrier board front" width="100%">
   </a>
+</p>
+
+### Back View
+
+<p align="center">
   <a href="IMAGES/BACK-CARRIER.png">
-    <img src="IMAGES/BACK-CARRIER.png" alt="Doomsday Deck — carrier board back" width="49%">
+    <img src="IMAGES/BACK-CARRIER.png" alt="Doomsday Deck — carrier board back" width="100%">
   </a>
 </p>
 
@@ -34,15 +41,15 @@ A custom portable cyberdeck for computing, offline communication, electronics, a
 | **Secondary e-paper display** | A 2.13-inch tri-colour e-paper HAT is planned for low-power status or reference information. |
 | **USB peripheral expansion** | A custom USB 2.0 hub is intended to connect accessories such as the touchscreen interface, keyboard peripherals, and RTL-SDR receiver. |
 | **Battery-powered operation** | A Waveshare UPS HAT (E) with four 21700 Li-ion cells is planned to provide a rechargeable 5 V power system. Actual runtime depends on load and battery configuration. |
-| **50-key low-profile keyboard** | A custom keyboard PCB using Kailh Choc V1 switches and compatible keycaps provides integrated input. |
+| **60-key low-profile keyboard** | A custom keyboard PCB using Kailh Choc V1 switches and compatible keycaps provides integrated input. |
 | **Scroll/encoder input** | An M5Stack Scroll Unit is planned for navigation or shortcut control. |
 | **Integrated audio** | Two MAX98357A I²S amplifier channels and two speakers are planned for audio output. |
 | **Software-defined radio** | An RTL-SDR Blog V3 receiver is included as a self-sourced USB accessory for receive-only RF experimentation. |
 | **Active cooling** | Two 5 V 4010 fans are planned to move air through the enclosure. |
 | **Custom enclosure** | A modular 3D-printed enclosure houses the display, keyboard, compute board, battery system, and expansion hardware. The current plan is to use Printing Legion for free supplier printing. |
 
-
+> **Prototype status:** These are project design goals and planned integrations, not a claim that every feature has been fully assembled or validated. Final support depends on the completed schematics, correct SBC pin mapping, power-budget testing, RF configuration, and mechanical fit checks.
 
 ## Bill of Materials
 
-See [`BOM.csv`](BOM.csv) for the parts list, vendor links, and budget estimate.
+See [`BOM.csv`](BOM.csv) for the parts list, vendor links, and budget estimate. Prices and availability may change; treat the totals as estimates until checkout and fabrication quotes are confirmed.
