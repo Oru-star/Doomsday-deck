@@ -74,7 +74,7 @@ ANT1 — 50Ω antenna for selected Core1262 module band,1,,,TBD,
 ESD-DOWNSTREAM — Additional low-capacitance USB 2.0 ESD protection arrays,4,,,TBD,
 USB-PWR-SWITCH — USB port power switch / ganged switch with current limit and active-low fault output,1,,,TBD,https://ww1.microchip.com/downloads/en/DeviceDoc/USB2517-Hardware-Design-Checklist-00004211.pdf
 USB-HARNESS — Internal 4-wire USB harnesses / strain relief,3,,,TBD,
-USB-PD-CHARGER — USB-C PD charger and suitable C-to-C cable for UPS HAT charging,1,,,TBD,https://www.waveshare.com/product/modules/others/ups-hat-e.htm
+"USB-PD-CHARGER — Official Raspberry Pi 27W USB-C PD supply (5.1V/5A); charger for UPS HAT (E), not SBC-port supply",1,1349.00,13.94,Amazon India,https://www.amazon.in/dp/B0D4DM1D21
 "RTL-SDR — RTL-SDR Blog V3 R860 RTL2832U SDR dongle with TCXO, bias tee and dipole antenna kit",1,,,Self-sourced by user (Amazon listing for identification only),https://www.amazon.in/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0BMKB3L47
 "J20 (provisional - assign unique ref in KiCad) — 20-pin 1.00mm FPC/FPC ZIF connector, bottom contacts, flip type",1,54.44,0.56,Sharvi Electronics,https://sharvielectronics.com/product/20-pin-fpc-ffc-smt-bottom-contacts-flip-connector-1mm-pitch/
 "ADP-FPC1 (off-board adapter; not a PCB designator) — 20-pin FFC/FPC adapter board, 1.00mm FPC to 2.54mm through-hole breakout",1,56.00,0.58,Sharvi Electronics,https://sharvielectronics.com/product/ffc-fpc-adapter-board-1mm-to-2-54mm-soldered-connector-20-pin/
@@ -83,4 +83,4 @@ SHIP-RESERVE-25USD — Shipping reserve — USD 25 (return unused balance to pro
 "EQP-HOTPLATE — Serplex EU-plug SMD rework heating plate, 12.1 × 7 cm",1,673.00,6.95,Amazon India,https://www.amazon.in/Serplex%C2%AE-Soldering-Desoldering-12-1x7cm-Aluminum/dp/B0GQ3GBKPT
 "CONS-SOLDER-PASTE — DHRUVPRO Sn63/Pb37 SMD solder paste, 35 g syringe",1,849.00,8.77,Amazon India,https://www.amazon.in/DHRUVPRO-Assembly-Sn63-Pb37-Soldering/dp/B0BBHF1P49
 EQP-TWEEZERS — THEMISTO 5-in-1 powder-coated stainless-steel tweezer set,1,279.00,2.88,Amazon India,https://www.amazon.in/THEMISTO-Stainless-Powder-Coated-Tweezer/dp/B07P9R8PP3
-TOTAL BUDGET — priced BOM items plus $25 shipping reserve; unpriced items excluded (unused reserve returns to project budget),,55482.44,573.31,,
+TOTAL BUDGET — priced BOM items plus $25 shipping reserve; unpriced items excluded; return unused reserve to project budget,,56831.44,587.25,,
