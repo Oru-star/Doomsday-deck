@@ -1,5 +1,4 @@
 Part,Quantity,Total Price (INR),Total Price (USD),Supplier,Product Link
-SBC1 — Orange Pi Zero 3W 12GB (listed reference price; availability to confirm),1,21680.00,224.02,Peach Imports,https://peachimports.com/products/orange-pi-zero-3w-12gb-lpddr5-allwinner-a733-octa-core-cpu-3-tops-single-board-computer-2-0ghz-frequency-wifi-6-bluetooth-5-4-ble-onboard-antenna-support-4k-display-run-android-ubuntu?_pos=1&_sid=8aff34c7b&_ss=r
 DISP1 — Waveshare 7HP-CAPQLED 7-inch display,1,6639.00,68.60,Robu.in,https://robu.in/product/waveshare-7inch-1024x600-capacitive-touch-qled-quantum-dot-display-with-gg-toughened-glass-panel-and-various-systems-support/
 SW1-SW60 — Kailh Choc V1 switches - selected Choc Yellow variant,60,2880.00,29.76,Neo Macro,https://neomacro.in/products/kailh-choc-v1-switches?variant=49466990264598
 KC1-KC60 — Chocfox CFX Choc blank keycaps - 1U set,60,2100.00,21.70,Neo Macro,https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=49467026833686
@@ -41,6 +40,7 @@ R3 — 22.1kΩ 0805 resistor,1,11.00,0.11,Robu.in,https://robu.in/product/rc0805
 R4 — 1MΩ 0805 resistor,1,11.20,0.12,Robu.in,https://robu.in/product/rc0805fr-131ml-yageo-125mw-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-1m%cf%89-0805-chip-resistor-surface-mount-rohs/
 R5 — 12kΩ 0805 resistor,1,10.50,0.11,Robu.in,https://robu.in/product/rc0805fr-0712kl-yageo-res-thick-film-0805-12k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
 R31-R32 — 100Ω 0805 resistors,2,10.50,0.11,Robu.in,https://robu.in/product/rc0805fr-07100rl-yageo-res-thick-film-0805-100-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
+SBC1 — Orange Pi Zero 3W 12GB (listed reference price; availability to confirm),1,21680.00,224.02,Peach Imports,https://peachimports.com/products/orange-pi-zero-3w-12gb-lpddr5-allwinner-a733-octa-core-cpu-3-tops-single-board-computer-2-0ghz-frequency-wifi-6-bluetooth-5-4-ble-onboard-antenna-support-4k-display-run-android-ubuntu?_pos=1&_sid=8aff34c7b&_ss=r
 R34 — 210kΩ 0805 resistor,1,10.78,0.11,Robu.in,https://robu.in/product/crcw0805210kfkea-vishay-intertech-125mw-thick-film-resistors-150v-%c2%b11-%c2%b1100ppm-%e2%84%83-210k%cf%89-0805-chip-resistor-surface-mount-rohs/
 U1 — TPS54302DDCT buck regulator,1,45.96,0.47,Sharvi Electronics,https://sharvielectronics.com/product/tps54302ddct-4-5-v-to-28v-3a-emi-friendly-synchronous-step-down-converter-ic-sot-23-package/
 U2 — Microchip USB2517I-JZX USB 2.0 hub controller,1,440.00,4.55,Robu.in,https://robu.in/product/usb2517i-jzx-microchip-usb-interface-usb-2-0-3-v-3-6-v-qfn-64-pins/
