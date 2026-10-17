@@ -106,7 +106,7 @@ The images below are kept smaller so each design view can sit beside its explana
 ### Features
 
 | Feature | Purpose |
-|---|---|---|
+|---|---|
 | **Orange Pi Zero 3W compute platform** | Main computing board for local tools and portable Linux use. |
 | **Offline reference library** | Access documentation and reference material without an internet connection. |
 | **LoRa communication** | Low-data-rate messaging using a Waveshare SX1262-based module; range depends on antenna, terrain, configuration, and local radio rules. |
