@@ -2,18 +2,19 @@
 
 **A custom portable cyberdeck for computing, offline communication, electronics, and field experimentation.**
 
-
 ## Enclosure and Carrier Renders
 
 These four renders show the overall enclosure concept and the carrier board from both sides.
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td colspan="2" align="center">
       <a href="IMAGES/FRONT-RENDER.png"><img src="IMAGES/FRONT-RENDER.png" alt="Doomsday Deck enclosure — front render" width="100%"></a><br>
       <strong>Enclosure — Front</strong>
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="IMAGES/BACK-RENDER.png"><img src="IMAGES/BACK-RENDER.png" alt="Doomsday Deck enclosure — back render" width="100%"></a><br>
       <strong>Enclosure — Back</strong>
     </td>
@@ -33,7 +34,6 @@ These four renders show the overall enclosure concept and the carrier board from
 ## What Is It?
 
 Doomsday Deck is a custom-built, portable cyberdeck which is mde for daily computing,offline computation, and electronics experimentation all in one!!. The design uses a Orange pi zero 3w as the main sbc,7inch Display,Custom Mechanical keyboard,20000 mah battery system,RTL Sdr,A lora module,External 20Gpio pins for adding external devices or tinkering with other hardware....
-
 
 ## Why I Built It
 
@@ -117,23 +117,21 @@ The images below are kept smaller so each design view can sit beside its explana
 | **Two 5 V 40 × 40 × 10 mm fans** | Move air through the enclosure and help manage temperatures. |
 | **Two 8ohms 2w Electromagnetic Speakers** | for good audio... |
 
-
 ## Bill of Materials
 
-See [`BOM.csv`](BOM.csv) for the parts list, vendor links, and budget estimate. Prices and availability can change; treat the totals as estimates until checkout and fabrication quotes are confirmed.
-
+See [`BOM.csv`](BOM.csv) for the parts list, vendor links, and budget estimate.
 ## Repository Structure
 
 ```text
 Doomsday-deck/
-├── Assets/                 # Project assets
+├── Assets/                  # Project assets
 ├── carrier-orange pi zero 3w/  # Carrier-board design files
-├── FIRMWARE/               # Firmware and configuration files
-├── IMAGES/                 # Renders, PCB views, and reference images
-├── PCB's/                  # PCB project files
-├── step's n render's/      # CAD exports and additional renders
-├── BOM.csv                 # Parts list and budget estimate
-└── README.md               # Project overview and documentation
+├── FIRMWARE/                # Firmware and configuration files
+├── IMAGES/                  # Renders, PCB views, and reference images
+├── PCB's/                   # PCB project files
+├── step's n render's/       # CAD exports and additional renders
+├── BOM.csv                  # Parts list and budget estimate
+└── README.md                # Project overview and documentation
 ```
 
 ## Acknowledgements
