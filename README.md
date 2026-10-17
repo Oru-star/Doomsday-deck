@@ -2,19 +2,17 @@
 
 **A custom portable cyberdeck for computing, offline communication, electronics, and field experimentation.**
 
-> **Project status:** Work in progress. The enclosure and carrier-board layouts are being developed; planned features and hardware are identified below and should not be interpreted as fully validated or operational yet.
-
 ## Enclosure and Carrier Renders
 
 These four renders show the overall enclosure concept and the carrier board from both sides.
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <a href="IMAGES/FRONT-RENDER.png"><img src="IMAGES/FRONT-RENDER.png" alt="Doomsday Deck enclosure — front render" width="100%"></a><br>
       <strong>Enclosure — Front</strong>
     </td>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <a href="IMAGES/BACK-RENDER.png"><img src="IMAGES/BACK-RENDER.png" alt="Doomsday Deck enclosure — back render" width="100%"></a><br>
       <strong>Enclosure — Back</strong>
     </td>
@@ -106,7 +104,7 @@ The images below are kept smaller so each design view can sit beside its explana
 
 ### Features
 
-| Feature | Purpose | Status |
+| Feature | Purpose |
 |---|---|---|
 | **Orange Pi Zero 3W compute platform** | Main computing board for local tools and portable Linux use. |
 | **Offline reference library** | Access documentation and reference material without an internet connection. |
