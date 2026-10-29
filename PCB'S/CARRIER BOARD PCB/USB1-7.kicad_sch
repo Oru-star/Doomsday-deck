@@ -1554,6 +1554,12 @@
 		(color 0 0 0 0)
 		(uuid "51d4b98e-0408-454b-ad10-cde3ce83114f")
 	)
+	(junction
+		(at 78.74 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e69a8fa1-496b-4259-b217-fae7e0e1a91c")
+	)
 	(wire
 		(pts
 			(xy 46.99 63.5) (xy 48.26 63.5)
@@ -3255,6 +3261,84 @@
 			(project "carrier-orange pi zero 3w"
 				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf/dc032c8e-044c-497e-baa0-c9bab8568430/be3c0006-2c92-4f50-94ad-ec8e1904ad37"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 78.74 92.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc0c7522-05e1-4612-9a22-d70418a8b2b1")
+		(property "Reference" "#FLG04"
+			(at 78.74 90.805 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 78.74 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
+			(at 78.74 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 78.74 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "265c780c-6e28-4947-a636-09fea6275521")
+		)
+		(instances
+			(project "carrier-orange pi zero 3w"
+				(path "/eed97ac6-b1d8-4052-bc40-1c993c6f2bcf/dc032c8e-044c-497e-baa0-c9bab8568430/be3c0006-2c92-4f50-94ad-ec8e1904ad37"
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
