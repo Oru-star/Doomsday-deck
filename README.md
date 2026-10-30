@@ -201,7 +201,7 @@ I Always find out the Cyberdecks to be so cool and i used to saw lots of videos 
 | EQP-HOTPLATE — Serplex EU-plug SMD rework heating plate, 12.1 × 7 cm | 1 | 673.00 | 6.95 | Amazon India | [Product / source](https://www.amazon.in/Serplex%C2%AE-Soldering-Desoldering-12-1x7cm-Aluminum/dp/B0GQ3GBKPT) |
 | CONS-SOLDER-PASTE — DHRUVPRO Sn63/Pb37 SMD solder paste, 35 g syringe | 1 | 849.00 | 8.77 | Amazon India | [Product / source](https://www.amazon.in/DHRUVPRO-Assembly-Sn63-Pb37-Soldering/dp/B0BBHF1P49) |
 | EQP-TWEEZERS — THEMISTO 5-in-1 powder-coated stainless-steel tweezer set | 1 | 279.00 | 2.88 | Amazon India | [Product / source](https://www.amazon.in/THEMISTO-Stainless-Powder-Coated-Tweezer/dp/B07P9R8PP3) |
-| TOTAL BUDGET — priced BOM items plus $25 shipping reserve; unpriced items excluded; return unused reserve to project budget | — | 56831.44 | 587.25 | — | — |
+| TOTAL BUDGET — priced BOM items plus $25 shipping reserve;  | — | 56831.44 | 587.25 | — | — |
 
 ## Cost summary
 
