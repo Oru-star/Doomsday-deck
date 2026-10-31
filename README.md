@@ -100,6 +100,32 @@ I Always find out the Cyberdecks to be so cool and i used to saw lots of videos 
   </tr>
 </table>
 
+
+## Assembly steps
+
+1.  **Prepare the parts** --- First gather all the requireed components , You can even solder the components on the pcb manually by hand or do the PCBA from a reputed brand , then after gathering two pcb's (carrier+keyboard's , take a screen , main sbc (orange pi ), battery pack , display cable (fpc), antenna , another e ink display etc .
+2.  **Assemble the enclosure** --- Fit the base, display frame and
+    hinge. Check that the display opens and closes freely and that no
+    cable is pinched and is free to move smoothly in both directions .
+3.  **Install the carrier PCB** --- Secure it at the designed mounting
+    points you can even refer the step files . Check that the PCB cannot touch conductive or any other enclosure parts like rtl sdr , or antena or speakers .
+4.  **Install the Orange Pi** --- Mount the Orange Pi Zero 3W and
+    connect its 40-pin interface to the carrier board. and also connect the type c cables to the carrier board's USB C .
+5.  **Install the power system** --- Mount the UPS HAT (E). Check all the pin orientaion before  
+    connecting to the carrier board , refer the carreir pcb's files for this make sure that all the pins are connecting to the carrier pcb and not even a single pin is left out .
+    place the batteries in the case of the battries , connect the 27100 battries in the battery case of the deck..
+6.  **Install the peripherals** --- Fit the display, keyboard,
+    joystick/OLED, LoRa module, e-paper display, USB hub, speakers and
+    fans in their designated positions. Connect each cable to its
+    matching labelled connector, respective silkscreen is already added on the pcb to make the work simpler.
+7.  **Route and secure cables** --- Keep wires clear of the hinge make sure that there is enough  wires left for the movement of the       display. there are not much wires in the deck as everything is connected via (fpc or pcb's) but still wherever the wires are make sure that they are secure properly using the glue or zip tie 
+8.  **Close the enclosure** --- Check fasteners, clearances, connector
+    access and display movement before fitting the final cover. secure the whole enclosure using the heat inserts and proper m.2 screws as mentioned in the bom 
+
+9.  **Start the deck ** --- Check check if its booting (install any armbian os ), fans are starting , both screens are powering up
+    lastly check everything if all the compoennts are working properly and there are no issues left , if there is any issue of devices not connecting properly , then there might be the issue with the firmware and not the deivce if everythng is done properly , i wil post another guide releated to it when the project is in build time !!
+
+
 ### Features
 
 | Feature | Purpose |
