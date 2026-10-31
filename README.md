@@ -122,7 +122,7 @@ I Always find out the Cyberdecks to be so cool and i used to saw lots of videos 
 8.  **Close the enclosure** --- Check fasteners, clearances, connector
     access and display movement before fitting the final cover. secure the whole enclosure using the heat inserts and proper m.2 screws as mentioned in the bom 
 
-9.  **Start the deck ** --- Check check if its booting (install any armbian os ), fans are starting , both screens are powering up
+9.  **Start the deck** --- Check check if its booting (install any armbian os ), fans are starting , both screens are powering up
     lastly check everything if all the compoennts are working properly and there are no issues left , if there is any issue of devices not connecting properly , then there might be the issue with the firmware and not the deivce if everythng is done properly , i wil post another guide releated to it when the project is in build time !!
 
 
