@@ -529,9 +529,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/tanma/Downloads/Doomsday-deck/PCB'S/GERBERS/",
+      "plot": "../GERBERS/keyboard/",
       "specctra_dsn": "",
-      "step": "Keyboard-Doomsdaydeck.step",
+      "step": "../../Asstets/Keyboard-Doomsdaydeck.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
